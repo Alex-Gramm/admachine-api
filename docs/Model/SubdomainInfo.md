@@ -1,0 +1,56 @@
+# # SubdomainInfo
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**logo** | **string** |  | [optional] 
+**logo_header** | **string** |  | [optional] 
+**subdomain** | **string** |  | [optional] 
+**favicon** | **string** |  | [optional] 
+**rules_text** | **string** |  | [optional] 
+**privacy_text** | **string** |  | [optional] 
+**owner_email** | **string** |  | [optional] 
+**external_js** | **string** |  | [optional] 
+**new_user_js** | **string** |  | [optional] 
+**agreement_text** | **string** |  | [optional] 
+**css** | **string** |  | [optional] 
+**css_value** | **string** |  | [optional] 
+**html_domain** | **string** |  | [optional] 
+**terms_of_service_url** | **string** |  | [optional] 
+**privacy_policy_url** | **string** |  | [optional] 
+**privacy_policy_text** | **string** | Privacy policy text | [optional] 
+**rules_of_service_text** | **string** | Rules of service text | [optional] 
+**terms_of_service_text** | **string** | Terms of service text | [optional] 
+**time** | **string** |  | [optional] 
+**owner_id** | **float** |  | [optional] 
+**signup_adv** | **float** |  | [optional] 
+**signup_pub** | **float** |  | [optional] 
+**subdomain_id** | **float** |  | [optional] 
+**hide_terms** | **float** |  | [optional] 
+**enable_id_verification** | **float** |  | [optional] 
+**remove_powered_by** | **bool** |  | [optional] 
+**remove_trial_text** | **int** |  | [optional] 
+**channels** | [**\OpenAPI\Client\Model\SettingsUserChannels**](SettingsUserChannels.md) |  | [optional] 
+**platform** | **float** |  | [optional] 
+**enable_advertiser_signup** | **bool** |  | [optional] 
+**enable_publisher_signup** | **bool** |  | [optional] 
+**ga_key** | **string** |  | [optional] 
+**yandex_metrik_key** | **string** |  | [optional] 
+**amplitude_key** | **string** |  | [optional] 
+**hotjar_key** | **string** |  | [optional] 
+**carrotqest_key** | **string** |  | [optional] 
+**rtb_domain** | **string** |  | [optional] 
+**strategies_min_budget** | **int** |  | [optional] 
+**creative_max_video_size** | **int** |  | [optional] 
+**creative_max_image_size** | **int** |  | [optional] 
+**bonus_checklist_enabled** | **bool** |  | [optional] 
+**first_deposit_bonus** | **float** |  | [optional] 
+**is_fixed_deposit_bonus** | **bool** |  | [optional] 
+**is_audience_channel_allowed** | **bool** |  | [optional] 
+**adult_ads** | **bool** |  | [optional] 
+**min_deposit** | **float** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+
